@@ -45,4 +45,4 @@ The compilation has been test on linux and mac systems.
 
 ### Use the main library ###
 
-For a complete list of the command line options refer the [wiki]() page.
+For a complete list of the command line options refer the [wiki](https://github.com/FellegaraR/Terrain_Analysis_on_IA/wiki/Command-line-parameters) page.
