@@ -42,6 +42,13 @@ This command generates a portable library file, located into *lib* folder, as we
 
 The compilation has been test on linux and mac systems.
 
+### Supported Input Files ###
+
+The library supports two input formats for the triangulated irregular network:
++ off
++ tri
+
+For a detailed description of the input formats refer the [wiki](https://github.com/FellegaraR/Terrain_Trees/wiki/Supported-Input-Formats) page.
 
 ### Use the main library ###
 
